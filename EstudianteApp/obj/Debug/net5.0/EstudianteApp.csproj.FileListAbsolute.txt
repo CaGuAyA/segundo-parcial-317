@@ -1,0 +1,16 @@
+C:\Users\CAGUAYA\Desktop\317\examen_2\EstudianteApp\obj\Debug\net5.0\EstudianteApp.csproj.AssemblyReference.cache
+C:\Users\CAGUAYA\Desktop\317\examen_2\EstudianteApp\obj\Debug\net5.0\EstudianteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAGUAYA\Desktop\317\examen_2\EstudianteApp\obj\Debug\net5.0\EstudianteApp.AssemblyInfoInputs.cache
+C:\Users\CAGUAYA\Desktop\317\examen_2\EstudianteApp\obj\Debug\net5.0\EstudianteApp.AssemblyInfo.cs
+C:\Users\CAGUAYA\Desktop\317\examen_2\EstudianteApp\obj\Debug\net5.0\EstudianteApp.csproj.CoreCompileInputs.cache
+C:\Users\CAGUAYA\Desktop\317\examen_2\EstudianteApp\bin\Debug\net5.0\EstudianteApp.exe
+C:\Users\CAGUAYA\Desktop\317\examen_2\EstudianteApp\bin\Debug\net5.0\EstudianteApp.deps.json
+C:\Users\CAGUAYA\Desktop\317\examen_2\EstudianteApp\bin\Debug\net5.0\EstudianteApp.runtimeconfig.json
+C:\Users\CAGUAYA\Desktop\317\examen_2\EstudianteApp\bin\Debug\net5.0\EstudianteApp.runtimeconfig.dev.json
+C:\Users\CAGUAYA\Desktop\317\examen_2\EstudianteApp\bin\Debug\net5.0\EstudianteApp.dll
+C:\Users\CAGUAYA\Desktop\317\examen_2\EstudianteApp\bin\Debug\net5.0\ref\EstudianteApp.dll
+C:\Users\CAGUAYA\Desktop\317\examen_2\EstudianteApp\bin\Debug\net5.0\EstudianteApp.pdb
+C:\Users\CAGUAYA\Desktop\317\examen_2\EstudianteApp\obj\Debug\net5.0\EstudianteApp.dll
+C:\Users\CAGUAYA\Desktop\317\examen_2\EstudianteApp\obj\Debug\net5.0\ref\EstudianteApp.dll
+C:\Users\CAGUAYA\Desktop\317\examen_2\EstudianteApp\obj\Debug\net5.0\EstudianteApp.pdb
+C:\Users\CAGUAYA\Desktop\317\examen_2\EstudianteApp\obj\Debug\net5.0\EstudianteApp.genruntimeconfig.cache
